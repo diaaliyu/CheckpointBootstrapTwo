@@ -1,0 +1,38 @@
+.collapse{
+    margin-left: 550px;
+    
+}
+.nav-link{
+    margin-left: 65px;
+    justify-content: space-between;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.bg-body-tertiary{
+    background-color: darkgoldenrod;
+}
+.cart1, .cart2, .cart3, .cart4{
+    display: flex;
+    display: inline-block;
+}
+.card{
+    margin-top: 90px;
+}
+.prod{
+    margin-left: 25px;
+    margin-top: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   color: aliceblue;
+}
+.navbar-brand{
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#footer{
+    margin-top: 55px;
+    height: 200px;
+}
+.foot{
+    text-align: center;
+    font-weight: bold;
+}
